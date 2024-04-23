@@ -1,0 +1,4 @@
+Fork this repo
+Get it working. All the several steps that that needs 
+Build the module(s) for the cluster of Agents (Use Autogen) that govern the interactions with the user
+(Prompts to configure tone, memory governance, etc)
